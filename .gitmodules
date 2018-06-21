@@ -1,0 +1,3 @@
+[submodule "software/MagicMirror"]
+	path = software/MagicMirror
+	url = https://github.com/HelloWk/MagicMirror.git
